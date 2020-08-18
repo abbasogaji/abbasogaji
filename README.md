@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Abbas Ogaji (Software Engineer)
+### I am Abbas Ogaji (Software Engineer | B.Eng Computer Engineering)
 
 I love everything that has to do with bits and chips, 
 
