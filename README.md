@@ -24,3 +24,5 @@ I love everything that has to do with bits and chips,
 - 👯 I’m looking to collaborate on interesting Open source projects (prefarably, blockchain tech and IoT)
 - 📫 How to reach me: [@sudo_abbas](https://twitter.com/sudo_abbas)
 - ⚡ Fun fact: i love anime, cats and am a big fan of [Nestjs](https://github.com/nestjs/nest) ..lol
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasogaji&layout=compact)](https://github.com/abbasogaji)
