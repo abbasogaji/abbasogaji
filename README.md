@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I love everything that has to do with bits and chips, 
 
-- 🔭 Projets I’m currently working include;  [Opine - Expressjs for deno](https://github.com/asos-craigmorten/opine), [Kimixbond - For Storing Digital Agreements on a blockchain](https://kimixbond.com) and [VoiceMed - web service](https://voicemed.io)
+- 🔭 Projects I’m currently working include;  [Opine - Expressjs for deno](https://github.com/asos-craigmorten/opine), [Kimixbond - For Storing Digital Agreements on a blockchain](https://kimixbond.com) and [VoiceMed - web service](https://voicemed.io)
 - 🌱 I’m currently learning about distributed systems, various topics on cryptography and implementing alogrithms of popular IETF RFC's
 - 👯 I’m looking to collaborate on interesting Open source projects (prefarably, blockchain tech and IoT)
 - 📫 How to reach me: [@sudo_abbas](https://twitter.com/sudo_abbas)
