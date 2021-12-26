@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am Abbas Ogaji (Software Engineer | B.Eng Computer Engineering)
 
-I am a Full-Stack Software Engineer; Mustly MEAN-stack focused; Got a new interest in Golang and Rust; I generally love everything that has to do with bits and chips, 
+I am a Full-Stack Software Engineer; Mostly MEAN-stack focused + VueJs and Golang; Got a new interest in Rust; I generally love everything that has to do with bits and chips, 
 
 - 🔭 Projects I’m currently working include;  [Opine - Expressjs for deno](https://github.com/asos-craigmorten/opine), [Kimixbond - For Storing Digital Agreements on a blockchain](https://kimixbond.com) and [VoiceMed - web service](https://voicemed.io)
 - 🌱 I’m currently learning about distributed systems, various topics on cryptography and implementing alogrithms of popular IETF RFC's
