@@ -23,6 +23,6 @@ I am a Full-Stack Software Engineer; Mostly MEAN-stack focused (Nodejs/Angular) 
 - 🌱 I’m currently learning about distributed systems, various topics on cryptography and implementing alogrithms of popular IETF RFC's
 - 👯 I’m looking to collaborate on interesting projects that include Web3, blockchain tech, or IoT
 - 📫 How to reach me: [abbasogaji@gmail.com](mailto:abbasogaji@gmail.com), [@sudo_abbas](https://twitter.com/sudo_abbas)
-- ⚡ Fun fact: i love anime, cats and am a big fan of [Nestjs](https://github.com/nestjs/nest) ..lol
+- ⚡ Fun fact: i love anime, cats and [Nestjs](https://github.com/nestjs/nest) ..lol
 
 
