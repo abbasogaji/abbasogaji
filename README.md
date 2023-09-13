@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### I am Abbas Ogaji (Software Engineer | B.Eng Computer Engineering)
 
-I am a Full-Stack Software Engineer; Mostly MEAN-stack focused (Nodejs/Angular) + VueJs; (Programming Languages: Java, JavaScript, Python and Golang)
+I am a Full-Stack Software Engineer; Frontend stack: - Angular, VueJs; Backend Stack: - Nodejs / Go / Java;   Programming Languages: JavaScript/Typescript, Java, Python and Golang
 
-- 🔭 Projects I’m currently working include;  [Opine - Expressjs for deno](https://github.com/asos-craigmorten/opine), [Kimixbond - For Storing Digital Agreements on a blockchain](https://kimixbond.com) and [VoiceMed - web service](https://voicemed.io)
+- 🔭 Projects I’m currently working include;  [Opine - Expressjs for deno](https://github.com/asos-craigmorten/opine), [Spoxio - Platform for finding home](https://spoxio.com) and [VoiceMed - web service](https://voicemed.io)
 - 🌱 I’m currently learning about distributed systems, various topics on cryptography and implementing alogrithms of popular IETF RFC's
 - 👯 I’m looking to collaborate on interesting projects that include Web3, blockchain tech, or IoT
 - 📫 How to reach me: [abbasogaji@gmail.com](mailto:abbasogaji@gmail.com), [@sudo_abbas](https://twitter.com/sudo_abbas)
